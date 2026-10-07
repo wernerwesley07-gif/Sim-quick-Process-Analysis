@@ -1,0 +1,11 @@
+Demand,Agents,Admission service level (%),Rejected calls per day,Initial queue wait (min),Average queue size,Supervisor working (%),Completed calls per day
+Normal,1,85,24.97,21.43,5.62,61,124.73
+Normal,2,95,7.49,6.72,2.1,72,146.63
+Normal,3,97,5.44,3.9,1.25,74,151.58
+Normal,4,97,5.56,2.83,0.89,74,148.67
+Normal,5,96,5.88,1.98,0.63,74,148.36
+Promotional,1,58,100.39,28.61,7.73,64,128.27
+Promotional,2,76,59.43,14.81,5.32,86,171.5
+Promotional,3,80,46.98,9.54,3.63,90,181.96
+Promotional,4,81,44.79,6.85,2.65,90,185.57
+Promotional,5,81,45.65,5.27,2.03,90,184.29
